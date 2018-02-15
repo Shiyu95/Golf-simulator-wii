@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothExample</string>
+    <string name="btn_ON">LED ON</string>
+    <string name="btn_OFF">LED OFF</string>
+</resources>
